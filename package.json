@@ -1,0 +1,14 @@
+{
+  "name": "jiwen-ephone-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@clarashafiq/jiwen": "latest",
+    "@modelcontextprotocol/sdk": "latest",
+    "express": "^5.1.0"
+  }
+}
